@@ -1,0 +1,8 @@
+{
+	"draw_analysis_result" : 1,
+	"show_video" : 0,
+	"show_roi" : 1,
+	"thresh" : 0.2,
+	"gpu" : 0	
+}
+
